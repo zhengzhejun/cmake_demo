@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/bytedance/workspace/cmake_demo/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/cmake_demo.dir/src/main.cpp.o -c /Users/bytedance/workspace/cmake_demo/src/main.cpp",
+  "file": "/Users/bytedance/workspace/cmake_demo/src/main.cpp",
+  "output": "CMakeFiles/cmake_demo.dir/src/main.cpp.o"
+}
+]
